@@ -1,0 +1,86 @@
+
+Erico Lima Schuch
+
+eschuch@gmail.com
+
+bit.ly/m/eschuch
+
+
+* I got into technology and started programming in Applesoft Basic back
+  in the 80's, but I only got paid in the 90's :)
+  I like Bash scripting a lot, but I've used C#, Java, Python, TCL, PHP
+  and a few more obscure things like Clarion.
+  As an individual with  ADHD,  I  excel  at  finding  cause-and-effect
+  relationships in complex  scenarios:  a  skill  that  has  fueled  my
+  passion for testing.
+
+
+* Technical Skills
+    Test Automation: Selenium, NUnit
+    Programming Languages: Bash C#, Python, TCL
+    CI/CD: GitLab Pipelines
+    Framework and Libraries: NUnit
+    Others: Terraform, Agile methodologies
+
+* Higher Education:
+     Information Technology
+
+* Languages
+     English :   Exchange in the United States to improve fluency.
+     Portuguese: I'm Brazilian
+
+* Professional experience
+
+  Information Security Analyst, Softnex
+    (October 2022 - Present)
+
+    In compliance with the PCI-DSS and  LGPD  regulations,  I  maintain
+    the security and operation of applications of card payment systems.
+    Technologies: Terraform, Bash, Python, low-level debugging tools.
+
+  Supervisor, ATPlus / Platon
+    (April 2021 - October 2022)
+
+    Responsible for automating  processes  and  delivering  changes  to
+    legacy software. Software development and quality analysis.  Create
+    indication of KPIs and standardization of process.
+    Technologies: GitLab pipelines for CI/CD.
+
+  Network Analyst, GVT / Telefonica / Alvo
+    (August 2013 - March 2021)
+
+    Maintenance and testing of telecommunications networks with a focus
+    on equipment and systems. Application  of  regressive,  integration
+    and automation tests in telecommunication systems  just  like  with
+    software.
+    Technologies: IPv6, DNS servers, SIP, BGP, Huawei, Cisco, Citrix.
+
+  Quality Analyst (QA), Stefanini / Dell
+    (August 2012 - July 2013)
+
+    Creation and execution of integration and regression  test  scripts
+    for applications that interact with the financial system in COBOL.
+    With an international team: USA, England, India and Australia.
+    Technologies: Bash, TCL, Jmeter
+
+  Test Analyst, NDDigital
+    (November 2008 - July 2012)
+
+    Development test automation with C#, NUnit, Selenium, and Autoit.
+    It brought tools such as Bromine and Testlink to the company.
+    Reduction of test environment assembly time with development in  C#
+    of  "mini-Sefaz":  A  mock  that  simulate  the  Sefaz  WebService,
+    facilitated regressive and functional tests.
+    I also  developed  test  automation  for  the  application's  core,
+    testing thousands of test cases in hours, not weeks.
+    Participation  in   integrations  with  critical  systems  such  as
+    Transpetro and Grupo Pão de Açúcar.
+
+  Other experiences
+    (2001 - 2012)
+
+    Technology Consultant at ENS Open.
+    Infrastructure Analyst at SPPS Provedora.
+    
+    
+-----------------------------------//----------------------------------
