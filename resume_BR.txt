@@ -1,0 +1,85 @@
+
+
+Érico Lima Schuch
+
+eschuch@gmail.com
+
+bit.ly/m/eschuch
+
+
+* Entrei na área de tecnologia e comecei a programar no Applesoft Basic
+   lá atrás nos anos 80, mas só fui pago nos anos 90 :)
+   Gosto muito de scripts Bash, mas usei C#, Java, Python, TCL,  PHP  e
+   algumas coisas mais obscuras como Clarion.
+   Como indivíduo com TDAH, sou excelente em encontrar causa  e  efeito
+   relacionamentos em cenários complexos: uma habilidade que  alimentou 
+   minha paixão por testes.
+
+
+* Habilidades técnicas
+     Automação de testes: Selenium, NUnit
+     Linguagens de programação: Bash C#, Python, TCL
+     CI/CD: pipelines do GitLab
+     Estrutura e bibliotecas: NUnit
+     Outros: Terraform, metodologias ágeis
+
+* Ensino superior:
+      Tecnologia da Informação
+
+* Línguas
+      Inglês: Intercâmbio nos Estados Unidos para melhorar a fluência.
+      Português: sou brasileiro
+
+* Experiência profissional
+
+   Analista de Segurança da Informação, Softnex
+     (outubro de 2022 - presente)
+
+     Em conformidade com as normas PCI-DSS e LGPD, mantenho a segurança
+     e operação de aplicações de sistemas de pagamento com cartão.
+     Tecnologias: Terraform, Bash, Python, ferramentas de depuração.
+
+   Supervisor, ATPlus/Platon
+     (abril de 2021 - outubro de 2022)
+
+     Responsável por automatizar processos  e  entregar  mudanças  para
+     software   legado.   Desenvolvimento  de  software  e  análise  de
+     qualidade. Coletar indicação de KPIs e padronização de processos.
+     Tecnologias: pipelines GitLab para CI/CD.
+
+   Analista de Redes, GVT / Telefônica / Alvo
+     (agosto de 2013 - março de 2021)
+
+     Manutenção e testes de  redes  de  telecomunicações  com  foco  em
+     equipamentos e sistemas.  Aplicação  de  integração  regressiva  e
+     testes de automação em sistemas de telecomunicações, assim como em
+     programas.
+     Tecnologias: IPv6, servidores DNS, SIP, BGP, Huawei, Cisco, Citrix.
+
+   Analista de Qualidade (QA), Stefanini/Dell
+     (agosto de 2012 - julho de 2013)
+
+     Criação e execução de scripts de testes de integração e  regressão
+     para aplicações que interagem com o sistema financeiro em COBOL.
+     Com uma equipe internacional: EUA, Inglaterra, Índia e Austrália.
+     Tecnologias: Bash, TCL, Jmeter
+
+   Analista de testes, NDDigital
+     (novembro de 2008 - julho de 2012)
+
+     Automação de testes de desenvolvimento com C#, NUnit,  Selenium  e
+     Autoit. Trouxe ferramentas como Bromine e Testlink para a empresa.
+     Redução do tempo de montagem do ambiente de testes com desenvolvi-
+     mento em C# do "mini-Sefaz": Mock que simula o WebService Sefaz.
+     Também desenvolvi automação de testes para o  core  da  aplicação,
+     testando milhares de casos de teste em horas, não em semanas.
+     Participação em integrações com sistemas críticos como  Transpetro
+     e Grupo Pão de Açúcar.
+
+   Outras experiências
+     (2001 - 2012)
+
+     Consultor de Tecnologia na ENS Open.
+     Analista de Infraestrutura na SPPS Provedora.
+     
+-----------------------------------//----------------------------------
